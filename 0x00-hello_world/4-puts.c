@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  *main
+ *  *main - print line of codeusing puts
  *   *
- *    *Return:(0)
+ *    *Return: 0
  *     */
 int main(void)
 {
